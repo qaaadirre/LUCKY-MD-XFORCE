@@ -42,7 +42,7 @@
     "@types/passport": "^1.0.12",
     "@types/passport-discord": "^0.1.4",
     "@types/passport-local": "^1.0.34",
-    "@types/passport-mongoose": "^0.5.1",
+
     "@vitalets/google-translate-api": "^9.2.0",
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.6.11",
     "@xaviabot/fb-downloader": "^1.0.14",
