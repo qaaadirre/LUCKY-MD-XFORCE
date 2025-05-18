@@ -113,7 +113,7 @@
     "mongoose": "^7.4.1",
     "mumaker": "^2.0.0",
     "music-lyrics": "^2.0.2",
-    "node": "^18.12.1",
+    "node": "^19.0.01",
     "node-cache": "^5.1.2",
     "node-catbox": "3.2.0",
     "node-cron": "^3.0.3",
