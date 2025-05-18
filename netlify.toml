@@ -2,19 +2,3 @@
   command = "yarn install && yarn build"  # Adjust this command based on your build process
   publish = "dist"  # Adjust this to your output directory
   node_version = "19.x"  # Specify the Node.js version
-
-[build.environment]
-  SESSION_ID = "your_session_id"  # Add any environment variables your app needs
-
-[dev]
-  command = "yarn start"  # Command to run your app in development mode
-  port = 3000  # Port for local development
-
-[functions]
-  directory = "functions"  # Directory for serverless functions
-
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-  force = true
